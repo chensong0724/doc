@@ -11,8 +11,12 @@
             "id": "3731e07a418088fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "产品设计文档要求模板-2022(1).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "产品设计文档要求模板-2022(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "产品设计文档要求模板-2022(1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "产品设计文档要求模板-2022(1).md"
+              }
             }
           },
           {
@@ -167,6 +175,11 @@
   },
   "active": "3731e07a418088fa",
   "lastOpenFiles": [
+    "工具包.md",
+    "工作随记.md",
+    "谷歌翻译插件.md",
+    "股票交易.md",
+    "产品设计文档要求模板-2022(1).md",
     "未命名.md",
     "Obsidian使用文档.md",
     "未命名.canvas",
