@@ -71,7 +71,7 @@ public class TestBeanDefinitionRegistryPostProcessor implements BeanDefinitionRe
 
 扩展方式为：
 
-```
+```java
 public class TestBeanFactoryPostProcessor implements BeanFactoryPostProcessor {
     @Override
     public void postProcessBeanFactory(ConfigurableListableBeanFactory beanFactory) throws BeansException {
@@ -100,7 +100,7 @@ public class TestBeanFactoryPostProcessor implements BeanFactoryPostProcessor {
 
 扩展方式为：
 
-```
+```java
 public class TestInstantiationAwareBeanPostProcessor implements InstantiationAwareBeanPostProcessor {
 
     @Override
@@ -146,7 +146,7 @@ public class TestInstantiationAwareBeanPostProcessor implements InstantiationAwa
 
 扩展方式为：
 
-```
+```java
 public class TestSmartInstantiationAwareBeanPostProcessor implements SmartInstantiationAwareBeanPostProcessor {
 
     @Override
@@ -179,7 +179,7 @@ public class TestSmartInstantiationAwareBeanPostProcessor implements SmartInstan
 
 扩展方式为：
 
-```
+```java
 public class TestBeanFactoryAware implements BeanFactoryAware {
     @Override
     public void setBeanFactory(BeanFactory beanFactory) throws BeansException {
