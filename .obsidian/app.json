@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "./",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative"
+}

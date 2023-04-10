@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "97cbec9797c1b26d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7dd7c44a3ffa24c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3731e07a418088fa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "624bdf0143a18624",
+    "type": "split",
+    "children": [
+      {
+        "id": "8199fa7ce36eced3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047c7fe91631e0ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69733028d86506fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "153acbf26a90a101",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ca99eebd4ff9f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "375b00c66ce9b785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e00939299134dcf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0d6cb89da439943",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b246852da022f130",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5772abb7c23d3d42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7effe137744dae17",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "33deb972c48a080b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d27511d6b8cd269",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "3731e07a418088fa",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Obsidian使用文档.md",
+    "未命名.canvas",
+    "2023-04-02.md",
+    "2023-04-04.md",
+    "Excalidraw/Drawing 2023-04-08 16.47.29.excalidraw.md",
+    "2023-W14.md",
+    "铝合金.md",
+    "渡",
+    "Excalidraw",
+    "Pasted image 20230408161418.png",
+    "2023-04-08.md",
+    "Pasted image 20230408144531.png",
+    "试用/项目统计.md",
+    "obsbide 1.md",
+    "试用/aaa.md",
+    "试用/mdm会员主数据接收项目设计文档.md",
+    "mdm会员主数据接收项目设计文档/image-20230322144757434.png.md",
+    "mdm会员主数据接收项目设计文档",
+    "试用/mdm会员主数据接收项目接口文档.md",
+    "mdm会员主数据接收项目设计文档.md",
+    "mdm会员主数据接收项目接口文档.md",
+    "Pasted image 20230408144001.png.md",
+    "Pasted image 20230408144001.png",
+    "未命名 1.canvas",
+    "试用"
+  ]
+}
